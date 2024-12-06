@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_advanced/core/constants/strings.dart';
 import 'package:flutter_advanced/core/routing/app_router.dart';
 import 'package:flutter_advanced/core/routing/routing.dart';
 import 'package:flutter_advanced/core/theming/colors.dart';
@@ -16,7 +17,7 @@ class DocApp extends StatelessWidget {
       splitScreenMode: true,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Doc App',
+        title: Strings.appName,
         theme: ThemeData(
           primaryColor: ColorsManager.mainBlue,
           scaffoldBackgroundColor: Colors.white,
