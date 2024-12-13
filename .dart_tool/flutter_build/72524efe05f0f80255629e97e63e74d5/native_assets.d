@@ -1,0 +1,1 @@
+ /media/islamux/Variety/Flutter_Projects/flutter_advanced/.dart_tool/flutter_build/72524efe05f0f80255629e97e63e74d5/native_assets.yaml: 
